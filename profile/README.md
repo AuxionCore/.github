@@ -25,7 +25,7 @@ We believe the web should be accessible, customizable, and friendly. That’s wh
 
 We welcome contributions, feature ideas, bug reports, and community feedback!
 
-- 🌐 [Website](https://auxion.space/core)
+- 🌐 [Website](https://core.auxion.space)
 - 🧠 [Open issues or ideas](https://github.com/orgs/AuxionCore/discussions)
 - 🤝 [Contribute on GitHub](https://github.com/orgs/AuxionCore/repositories)
 
