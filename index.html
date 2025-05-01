@@ -89,7 +89,16 @@
       }
 
       .project:hover {
-        transform: translateY(-4px);
+        transform: translateY(-2px);
+      }
+
+      .project-link a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 400;
       }
 
       .project h2 {
@@ -176,8 +185,8 @@
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
-        <li><a href="#rtlifyGpt">RTL Alignment</a></li>
-        <li><a href="#pinFlux">Chat Pinning</a></li>
+        <li><a href="#rtlifyGpt">RTLify GPT</a></li>
+        <li><a href="#pinFlux">PinFlux</a></li>
       </ul>
     </nav>
 
@@ -199,23 +208,22 @@
 
       <section class="project" id="rtlifyGpt">
         <h2>🔠 RTL Alignment for Websites</h2>
-        <a
-          href="https://rtlify-gpt.auxion.space/"
-          target="_blank"
-        >
+        <div>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24px"
             viewBox="0 -960 960 960"
             width="24px"
-            fill="#FFFFFF"
+            fill="#000"
           >
             <path
               d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z"
             />
           </svg>
-          RTLify GPT Website
-        </a>
+          <a href="https://rtlify-gpt.auxion.space/" target="_blank">
+            RTLify GPT Website
+          </a>
+        </div>
         <p>
           A browser extension improving readability and usability for
           right-to-left languages on platforms like ChatGPT, Reddit, YouTube,
@@ -260,23 +268,22 @@
 
       <section class="project" id="pinFlux">
         <h2>📌 PinFlux – Pin Important Chat Messages In ChatGPT</h2>
-        <a
-          href="https://pin-flux.auxion.space/"
-          target="_blank"
-        >
+        <div class="project-link">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24px"
             viewBox="0 -960 960 960"
             width="24px"
-            fill="#FFFFFF"
+            fill="#000"
           >
             <path
               d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z"
             />
           </svg>
-          PinFlux Website
-        </a>
+          <a href="https://pin-flux.auxion.space/" target="_blank">
+            PinFlux Website
+          </a>
+        </div>
         <p>
           Helps organize conversations: pin chats, add bookmarks, and navigate
           easily between sessions.
