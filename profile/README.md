@@ -7,10 +7,10 @@ Auxion Core is the open-source branch of the Auxion brand, focused on developing
 
 ## 🌟 Projects
 
-### 🔠 RTL Alignment for Websites
+### 🔠 [RTL Alignment for Websites](https://github.com/AuxionCore/RTLify_GPT)
 Improves readability and layout for RTL languages on popular websites like ChatGPT, Reddit, and YouTube.
 
-### 📌 Chat Pinning for ChatGPT
+### 📌 [Chat Pinning for ChatGPT](https://github.com/AuxionCore/PinFlux)
 Pin, organize, and navigate ChatGPT conversations more easily. Bookmark messages and customize your workspace.
 
 ---
