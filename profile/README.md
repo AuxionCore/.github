@@ -1,7 +1,7 @@
 # Auxion Core
 
 **Flowing open-source projects for a better web.**  
-Auxion Core is the open-source branch of the Auxion brand, focused on developing browser extensions and tools that improve usability and user experience across the internet — especially for RTL (Right-to-Left) language users.
+Auxion Core is the open-source branch of the Auxion brand, focused on developing browser extensions and tools that improve usability and user experience across the internet.
 
 ---
 
